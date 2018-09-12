@@ -1,0 +1,26 @@
+.well {
+    background-color: whitesmoke;
+    margin: 50px 0;
+    padding: 15px 15px;
+    min-height: 100px;
+}
+
+#conferenceForm h5 {
+    margin-bottom: 20px;
+}
+
+hr {
+    border-top: 1px solid #d6d3d3;
+}
+
+.list_container {
+    margin-top: 50px;
+}
+
+.list_container .table {
+    margin-bottom: 50px;
+}
+
+.list_container .table tr td {
+    max-width: 80px;
+}
